@@ -1,0 +1,481 @@
+ACS PE variable,Age1_corr,Age2_corr,Age3_corr,Age4_corr,Age5_corr,Age6_corr,Age7_corr,Age8_corr,group,Short_name
+DP02_0001PE,-0.05,-0.04,-0.01,0.07,0.15,0.11,0.00,0.05,household,All Households
+DP02_0002PE,0.09,0.28,0.17,0.11,0.03,-0.08,-0.09,-0.08,household,All Families
+DP02_0003PE,0.24,0.39,0.26,0.23,0.20,0.06,0.03,-0.04,household,"Family, Children <18"
+DP02_0004PE,-0.26,-0.10,-0.30,-0.31,-0.35,-0.39,-0.31,-0.06,household,Married Parents
+DP02_0005PE,-0.10,0.05,-0.15,-0.15,-0.16,-0.23,-0.19,-0.02,household,"Married Parents, Children <18"
+DP02_0006PE,0.61,0.65,0.68,0.70,0.63,0.52,0.35,-0.02,household,"Single male, with children"
+DP02_0007PE,0.50,0.56,0.53,0.58,0.50,0.35,0.25,-0.02,household,"Single male, with children <18"
+DP02_0008PE,0.43,0.40,0.61,0.53,0.51,0.46,0.34,0.01,household,"Single female, with children"
+DP02_0009PE,0.46,0.42,0.59,0.51,0.51,0.44,0.34,-0.03,household,"Single female, with children <18"
+DP02_0010PE,-0.09,-0.28,-0.17,-0.11,-0.03,0.08,0.09,0.08,household,No family
+DP02_0011PE,-0.11,-0.27,-0.14,-0.10,-0.06,0.04,0.04,0.02,household,Living alone
+DP02_0012PE,-0.20,-0.16,-0.12,-0.16,-0.23,-0.21,-0.21,-0.19,household,>65y in living alone
+DP02_0013PE,0.38,0.51,0.44,0.40,0.35,0.20,0.14,-0.03,household,At least 1 person <18
+DP02_0014PE,-0.18,-0.03,-0.05,-0.11,-0.23,-0.24,-0.25,-0.19,household,Living with people >65
+DP02_0017PE,0.11,0.17,0.19,0.26,0.32,0.22,0.03,0.04,relation,Pop in households
+DP02_0018PE,-0.40,-0.56,-0.53,-0.49,-0.41,-0.28,-0.17,-0.02,relation,Householder
+DP02_0019PE,-0.47,-0.36,-0.56,-0.56,-0.58,-0.57,-0.43,-0.09,relation,Living with spouse
+DP02_0020PE,0.32,0.48,0.47,0.40,0.33,0.20,0.13,-0.04,relation,Child
+DP02_0021PE,0.59,0.61,0.77,0.73,0.65,0.60,0.41,0.07,relation,Not living with spouse or children
+DP02_0022PE,0.09,-0.09,-0.04,0.05,0.17,0.24,0.20,0.15,relation,Living with roomates
+DP02_0023PE,0.17,-0.02,-0.01,0.09,0.16,0.20,0.15,0.12,relation,Unmarried partner
+DP02_0024PE,0.08,0.11,0.13,0.21,0.28,0.20,0.03,0.05,marital,Male >15y
+DP02_0025PE,0.34,0.20,0.40,0.43,0.50,0.53,0.40,0.12,marital,"Male, unmarried"
+DP02_0026PE,-0.35,-0.20,-0.41,-0.42,-0.46,-0.50,-0.38,-0.07,marital,"Male, married, separated"
+DP02_0027PE,0.35,0.30,0.50,0.46,0.44,0.45,0.26,0.01,marital,"Male, separated"
+DP02_0028PE,0.08,0.09,0.18,0.12,0.03,0.06,0.02,-0.08,marital,"Male, widowed"
+DP02_0029PE,0.11,-0.03,0.02,0.00,-0.04,-0.02,0.03,-0.09,marital,"Male, divorced"
+DP02_0030PE,0.04,0.09,0.13,0.20,0.26,0.20,0.03,0.05,marital,Female >15y
+DP02_0031PE,0.32,0.17,0.38,0.39,0.46,0.52,0.42,0.15,marital,"Female, never married"
+DP02_0032PE,-0.31,-0.18,-0.40,-0.39,-0.43,-0.47,-0.37,-0.08,marital,"Female, married, separated"
+DP02_0033PE,0.49,0.45,0.62,0.58,0.60,0.52,0.41,0.02,marital,"Female, separated"
+DP02_0034PE,-0.07,-0.01,0.02,-0.01,-0.11,-0.11,-0.15,-0.16,marital,"Female , widowed"
+DP02_0035PE,-0.01,-0.10,-0.04,-0.09,-0.08,-0.11,-0.06,-0.08,marital,"Female, divorced"
+DP02_0036PE,0.23,0.27,0.29,0.37,0.42,0.31,0.10,0.05,fertility,"Female, age15-50, w child<1y"
+DP02_0037PE,0.40,0.31,0.50,0.44,0.38,0.33,0.20,-0.05,fertility,"Female, child <1y, unmarried"
+DP02_0043PE,0.41,0.51,0.58,0.61,0.60,0.44,0.16,0.02,gradeparents,Grandparent w/ grandchild <18
+DP02_0044PE,0.10,0.10,0.10,0.04,0.04,0.02,0.09,-0.12,gradeparents,"Grandparent responsible for grandchild <18,"
+DP02_0045PE,-0.01,-0.02,0.00,-0.02,0.04,0.09,0.17,0.02,gradeparents,Grand w/ kid for <1 year
+DP02_0046PE,0.24,0.23,0.19,0.14,0.13,0.13,0.20,-0.01,gradeparents,Grand w/ kid for 1/2 years
+DP02_0047PE,-0.01,0.02,0.03,-0.02,-0.04,-0.08,-0.10,-0.20,gradeparents,Grand w/ kid for 3/4 years
+DP02_0048PE,0.03,0.03,0.02,0.01,-0.01,-0.05,-0.01,-0.06,gradeparents,Grand w kid for >5 years
+DP02_0049PE,0.35,0.44,0.54,0.54,0.52,0.40,0.19,0.01,gradeparents,Grands care for grandkids <18
+DP02_0050PE,0.04,-0.01,0.10,0.07,0.16,0.21,0.09,0.06,gradeparents,"Grands care for grandkids <18, F"
+DP02_0051PE,-0.01,0.01,-0.09,-0.07,-0.17,-0.24,-0.13,-0.04,gradeparents,Married grands care for grandkids <18
+DP02_0052PE,0.15,0.20,0.25,0.31,0.36,0.25,0.05,0.02,school_enroll,"In school, age >3"
+DP02_0053PE,-0.24,-0.14,-0.20,-0.15,-0.16,-0.15,-0.12,0.03,school_enroll,"In nursery/preschool, age >3"
+DP02_0054PE,0.13,0.23,0.14,0.13,0.10,0.03,0.04,-0.06,school_enroll,"In Kindergarten, age >3"
+DP02_0055PE,0.29,0.44,0.33,0.31,0.20,0.06,0.05,0.01,school_enroll,"In elementary, age >3"
+DP02_0056PE,0.11,0.25,0.24,0.11,0.07,0.01,0.01,-0.06,school_enroll,"In high school, age >3"
+DP02_0057PE,-0.20,-0.38,-0.29,-0.23,-0.14,-0.02,-0.02,0.03,school_enroll,"In college/grad school, age >3"
+DP02_0058PE,0.03,0.08,0.09,0.17,0.24,0.17,0.02,0.05,education,Age >=25
+DP02_0059PE,0.76,0.80,0.76,0.81,0.77,0.61,0.37,0.01,education,<9th grade education
+DP02_0060PE,0.70,0.68,0.74,0.72,0.65,0.57,0.38,-0.07,education,9-12th grade education
+DP02_0061PE,0.50,0.50,0.57,0.54,0.43,0.34,0.16,-0.11,education,High school grad
+DP02_0062PE,0.06,0.03,0.18,0.09,0.03,0.01,0.00,-0.15,education,Some college
+DP02_0063PE,-0.12,-0.14,-0.07,-0.12,-0.15,-0.22,-0.18,-0.15,education,Associates degree
+DP02_0064PE,-0.60,-0.59,-0.68,-0.64,-0.55,-0.43,-0.25,0.13,education,Bachelors degree
+DP02_0065PE,-0.53,-0.53,-0.61,-0.58,-0.49,-0.38,-0.20,0.10,education,Grad/professional degree
+DP02_0066PE,-0.80,-0.81,-0.81,-0.84,-0.78,-0.64,-0.41,0.03,education,High school grad+
+DP02_0067PE,-0.58,-0.58,-0.67,-0.63,-0.54,-0.42,-0.23,0.12,education,Bachelors degree+
+DP02_0068PE,0.05,0.09,0.12,0.19,0.27,0.20,0.03,0.05,veteran,Civilian age >18
+DP02_0069PE,-0.14,-0.24,-0.26,-0.31,-0.36,-0.36,-0.23,-0.17,veteran,"Civilian age >18, veteran"
+DP02_0070PE,0.10,0.16,0.19,0.26,0.32,0.22,0.03,0.04,disable,"Civilian, all"
+DP02_0071PE,0.14,0.09,0.19,0.12,0.07,0.08,0.03,-0.15,disable,"Civilian, disability"
+DP02_0072PE,0.23,0.34,0.36,0.41,0.44,0.29,0.05,0.01,disable,Age <18
+DP02_0073PE,0.17,0.07,0.07,0.07,0.00,0.01,-0.04,-0.10,disable,"Age <18, disability"
+DP02_0074PE,0.08,0.11,0.14,0.22,0.30,0.23,0.06,0.08,disable,Age 18 - 64
+DP02_0075PE,0.27,0.20,0.32,0.24,0.23,0.20,0.14,-0.06,disable,"Age 18-64, disability"
+DP02_0076PE,-0.15,-0.03,-0.03,-0.01,0.00,-0.05,-0.18,-0.12,disable,Age >65
+DP02_0077PE,0.35,0.30,0.41,0.37,0.37,0.42,0.36,-0.11,disable,"Age >65, disability"
+DP02_0078PE,0.10,0.15,0.18,0.25,0.32,0.23,0.04,0.04,residence,Age >1
+DP02_0079PE,0.02,0.20,0.16,0.13,0.02,-0.08,-0.07,0.00,residence,"Age >1, same house"
+DP02_0080PE,0.00,-0.19,-0.14,-0.12,-0.01,0.08,0.08,0.00,residence,"Age >1, diff house"
+DP02_0081PE,0.15,0.03,0.11,0.12,0.21,0.33,0.27,0.01,residence,"Age >1, diff house, same county"
+DP02_0082PE,-0.21,-0.37,-0.39,-0.37,-0.30,-0.28,-0.22,-0.01,residence,"Age >1, diff house, diff county"
+DP02_0083PE,-0.16,-0.25,-0.30,-0.29,-0.28,-0.31,-0.23,-0.04,residence,"Age >1, diff county, same state"
+DP02_0084PE,-0.19,-0.36,-0.35,-0.30,-0.19,-0.09,-0.08,0.04,residence,"Age >1, diff house, diff state"
+DP02_0085PE,-0.14,-0.18,-0.20,-0.17,-0.08,-0.04,-0.09,-0.02,residence,"Age >1, moved abroad"
+DP02_0086PE,0.10,0.15,0.18,0.26,0.32,0.23,0.04,0.04,placeofbirth,Total population
+DP02_0087PE,-0.35,-0.44,-0.33,-0.41,-0.38,-0.32,-0.12,-0.04,placeofbirth,Native
+DP02_0088PE,-0.36,-0.45,-0.34,-0.41,-0.39,-0.33,-0.14,-0.04,placeofbirth,"Native, US born"
+DP02_0089PE,-0.20,-0.15,-0.04,-0.13,-0.17,-0.17,-0.10,-0.10,placeofbirth,"Native, Born in US state of residence"
+DP02_0090PE,-0.27,-0.46,-0.44,-0.43,-0.35,-0.26,-0.08,0.08,placeofbirth,"Native, born + live in diff states in US"
+DP02_0091PE,0.35,0.37,0.30,0.32,0.35,0.34,0.29,0.10,placeofbirth,"Native, born in PR, US islands, abroad"
+DP02_0092PE,0.35,0.44,0.33,0.41,0.38,0.32,0.12,0.04,placeofbirth,"Foreign Born, place of birth"
+DP02_0093PE,0.32,0.40,0.36,0.46,0.49,0.36,0.08,0.04,UScitizen,"Foreign Born, citizenship status"
+DP02_0094PE,-0.52,-0.43,-0.50,-0.50,-0.49,-0.42,-0.26,0.01,UScitizen,"Foreign Born, naturalized"
+DP02_0095PE,0.52,0.43,0.50,0.50,0.49,0.42,0.26,-0.01,UScitizen,"Foreign Born, not US citizen"
+DP02_0096PE,0.32,0.41,0.36,0.46,0.50,0.37,0.09,0.04,yearentry,Born outside of US
+DP02_0097PE,0.25,0.29,0.27,0.33,0.38,0.31,0.18,0.09,yearentry,"Not US born, native"
+DP02_0098PE,0.06,0.12,0.03,0.06,0.04,-0.01,-0.08,0.07,yearentry,"Not US born, native, entered >2010"
+DP02_0099PE,-0.06,-0.12,-0.03,-0.06,-0.04,0.01,0.08,-0.07,yearentry,"Not US born, native, entered <2010"
+DP02_0100PE,0.32,0.40,0.36,0.46,0.49,0.36,0.08,0.04,yearentry,Foreign Born
+DP02_0101PE,-0.31,-0.40,-0.35,-0.33,-0.24,-0.13,-0.13,0.00,yearentry,"Foreign born, entered >2010"
+DP02_0102PE,0.31,0.40,0.35,0.33,0.24,0.13,0.13,0.00,yearentry,"Foreign born, entered <2010"
+DP02_0103PE,0.32,0.40,0.36,0.46,0.49,0.36,0.08,0.04,world,"Foreign born, not at sea"
+DP02_0104PE,-0.50,-0.36,-0.48,-0.46,-0.46,-0.38,-0.27,-0.04,world,Born in Europe
+DP02_0105PE,-0.47,-0.52,-0.56,-0.54,-0.48,-0.39,-0.28,-0.04,world,Born in Asia
+DP02_0106PE,-0.10,-0.17,-0.02,-0.04,0.02,0.05,0.14,0.08,world,Born in Africa
+DP02_0107PE,-0.16,-0.17,-0.21,-0.20,-0.17,-0.16,-0.04,0.09,world,Born Oceania
+DP02_0108PE,0.69,0.67,0.71,0.69,0.63,0.49,0.31,0.01,world,Born in Latin America
+DP02_0109PE,-0.38,-0.40,-0.47,-0.45,-0.37,-0.31,-0.08,0.11,world,Born N America
+DP02_0110PE,0.09,0.14,0.17,0.24,0.31,0.22,0.03,0.04,language,Age >5
+DP02_0111PE,-0.53,-0.63,-0.52,-0.60,-0.56,-0.46,-0.22,-0.01,language,"Age >5, English only"
+DP02_0112PE,0.53,0.63,0.52,0.60,0.56,0.46,0.22,0.01,language,Non-English speaker
+DP02_0113PE,0.58,0.67,0.57,0.64,0.60,0.51,0.28,0.02,language,Limited English speaking
+DP02_0114PE,0.74,0.79,0.73,0.79,0.74,0.57,0.35,-0.01,language,Speak Spanish
+DP02_0115PE,0.75,0.79,0.73,0.79,0.75,0.59,0.39,0.02,language,Only speak Spanish
+DP02_0116PE,-0.19,-0.08,-0.18,-0.14,-0.17,-0.11,-0.17,0.01,language,"Age >5, lang = indo-European"
+DP02_0117PE,-0.08,0.04,-0.05,-0.01,-0.05,0.00,-0.09,0.00,language,"Age >5, lang = j Indo-European"
+DP02_0118PE,-0.18,-0.20,-0.23,-0.20,-0.16,-0.11,-0.16,-0.02,language,"Age >5, lang = Asian/Pacific Islander"
+DP02_0119PE,-0.12,-0.12,-0.14,-0.11,-0.09,-0.05,-0.11,-0.02,language,"Age >5, lang = j Asian/Pacific Islander"
+DP02_0120PE,-0.11,-0.03,-0.05,-0.05,-0.03,0.09,0.05,0.10,language,"Age >5, lang = other"
+DP02_0121PE,-0.08,0.02,0.00,-0.02,0.00,0.12,0.06,0.09,language,"Age >5, lang = j other"
+DP02_0122PE,0.10,0.15,0.18,0.26,0.32,0.23,0.04,0.04,ancestry,Ancestry All
+DP02_0123PE,-0.41,-0.32,-0.43,-0.46,-0.46,-0.44,-0.26,-0.03,ancestry,American ancestry
+DP02_0124PE,-0.15,-0.05,-0.11,-0.09,-0.08,0.03,0.02,0.06,ancestry,Arab ancestry
+DP02_0125PE,-0.36,-0.34,-0.42,-0.42,-0.43,-0.37,-0.27,-0.07,ancestry,Czech ancestry
+DP02_0126PE,-0.32,-0.35,-0.46,-0.45,-0.47,-0.46,-0.31,-0.04,ancestry,Danish ancestry
+DP02_0127PE,-0.44,-0.45,-0.48,-0.51,-0.48,-0.43,-0.25,-0.02,ancestry,Dutch ancestry
+DP02_0128PE,-0.49,-0.52,-0.67,-0.68,-0.65,-0.62,-0.39,-0.09,ancestry,English ancestry
+DP02_0129PE,-0.41,-0.46,-0.57,-0.57,-0.53,-0.51,-0.33,-0.07,ancestry,French(not Basque) ancestry
+DP02_0130PE,-0.37,-0.37,-0.45,-0.46,-0.43,-0.42,-0.28,-0.05,ancestry,French Canadian ancestry
+DP02_0131PE,-0.56,-0.59,-0.72,-0.73,-0.70,-0.65,-0.46,-0.09,ancestry,German ancestry
+DP02_0132PE,-0.40,-0.29,-0.42,-0.41,-0.40,-0.31,-0.22,0.06,ancestry,Greek ancestry
+DP02_0133PE,-0.40,-0.34,-0.45,-0.44,-0.42,-0.33,-0.13,0.05,ancestry,Hungarian ancestry
+DP02_0134PE,-0.58,-0.52,-0.65,-0.65,-0.63,-0.56,-0.37,-0.07,ancestry,Irish ancestry
+DP02_0135PE,-0.44,-0.39,-0.52,-0.49,-0.49,-0.43,-0.34,-0.06,ancestry,Italian ancestry
+DP02_0136PE,-0.34,-0.28,-0.35,-0.33,-0.33,-0.29,-0.18,0.02,ancestry,Lithuanian ancestry
+DP02_0137PE,-0.34,-0.37,-0.48,-0.51,-0.49,-0.47,-0.37,-0.09,ancestry,Norwegian ancestry
+DP02_0138PE,-0.36,-0.25,-0.37,-0.33,-0.36,-0.31,-0.29,-0.10,ancestry,Polish ancestry
+DP02_0139PE,-0.19,-0.23,-0.27,-0.25,-0.22,-0.17,-0.01,0.16,ancestry,Portuguese ancestry
+DP02_0140PE,-0.26,-0.19,-0.28,-0.27,-0.26,-0.23,-0.12,0.09,ancestry,Russian ancestry
+DP02_0141PE,-0.40,-0.46,-0.57,-0.56,-0.54,-0.49,-0.32,-0.03,ancestry,Scotch-Irish ancestry
+DP02_0142PE,-0.49,-0.53,-0.66,-0.64,-0.59,-0.55,-0.33,-0.02,ancestry,Scottish ancestry
+DP02_0143PE,-0.30,-0.26,-0.34,-0.30,-0.32,-0.24,-0.17,-0.02,ancestry,Slovak ancestry
+DP02_0144PE,0.01,-0.08,0.02,0.02,0.07,0.11,0.16,0.12,ancestry,Subsaharan African ancestry
+DP02_0145PE,-0.33,-0.36,-0.46,-0.50,-0.49,-0.49,-0.36,-0.14,ancestry,Swedish ancestry
+DP02_0146PE,-0.37,-0.40,-0.49,-0.52,-0.48,-0.43,-0.31,-0.07,ancestry,Swiss ancestry
+DP02_0147PE,-0.27,-0.19,-0.29,-0.25,-0.22,-0.17,-0.13,0.06,ancestry,Ukrainian ancestry
+DP02_0148PE,-0.41,-0.47,-0.57,-0.55,-0.51,-0.48,-0.28,0.00,ancestry,Welsh ancestry
+DP02_0149PE,0.19,0.09,0.14,0.11,0.13,0.16,0.12,0.20,ancestry,West Indies ancestry
+DP02_0150PE,-0.05,-0.04,-0.01,0.07,0.15,0.11,0.00,0.05,computer,All computers/internet
+DP02_0151PE,-0.41,-0.40,-0.56,-0.53,-0.46,-0.46,-0.32,-0.01,computer,With computer
+DP02_0152PE,-0.46,-0.45,-0.59,-0.58,-0.52,-0.50,-0.36,-0.01,computer,With internet
+DP03_0001PE,0.06,0.10,0.13,0.20,0.27,0.20,0.03,0.05,employment,Age >16
+DP03_0002PE,-0.02,-0.11,-0.21,-0.13,-0.08,-0.09,-0.03,0.14,employment,"Age >16, working"
+DP03_0003PE,-0.02,-0.12,-0.21,-0.13,-0.08,-0.09,-0.03,0.14,employment,"Age >16, civilian labor force"
+DP03_0004PE,-0.13,-0.19,-0.33,-0.24,-0.20,-0.20,-0.11,0.11,employment,"Age >16, employed, civilian"
+DP03_0005PE,0.33,0.28,0.47,0.40,0.39,0.38,0.24,0.02,employment,"Age >16, civilian, unemployed"
+DP03_0006PE,0.10,0.01,-0.01,-0.04,0.01,-0.05,-0.06,-0.03,employment,"Age >16, armed forces"
+DP03_0007PE,0.02,0.11,0.21,0.13,0.08,0.09,0.03,-0.14,employment,"Age >16, not in labor"
+DP03_0008PE,0.04,0.06,0.07,0.15,0.23,0.17,0.03,0.08,employment,Civilian labor force
+DP03_0009PE,0.29,0.26,0.45,0.38,0.35,0.36,0.23,0.01,employment,Unemployment rate
+DP03_0010PE,0.04,0.08,0.13,0.19,0.26,0.19,0.03,0.05,employment,F age>16
+DP03_0011PE,-0.01,-0.20,-0.19,-0.13,-0.05,-0.04,0.03,0.16,employment,"F age>16, employed"
+DP03_0012PE,-0.02,-0.21,-0.19,-0.14,-0.05,-0.04,0.03,0.16,employment,"F age >16, civilian labor force"
+DP03_0013PE,-0.14,-0.28,-0.34,-0.27,-0.19,-0.18,-0.07,0.14,employment,"F, age >16, employed, civilian"
+DP03_0014PE,0.22,0.31,0.32,0.40,0.44,0.31,0.08,0.03,employment,"Children, age <6"
+DP03_0015PE,-0.07,-0.18,-0.06,-0.07,-0.01,-0.01,0.09,0.07,employment,"C age <6, parents in labor force"
+DP03_0016PE,0.22,0.33,0.34,0.38,0.40,0.24,0.02,0.00,employment,C age 6-17
+DP03_0017PE,-0.07,-0.19,-0.08,-0.09,-0.06,0.00,-0.01,-0.01,employment,"C age 6-17, parents in labor force"
+DP03_0018PE,0.01,0.02,0.02,0.11,0.19,0.13,0.00,0.08,commute,"Workers, age >16"
+DP03_0019PE,-0.05,0.01,-0.08,-0.14,-0.23,-0.33,-0.28,-0.22,commute,"Workers age>16, drive alone"
+DP03_0020PE,0.66,0.69,0.65,0.65,0.56,0.41,0.13,-0.11,commute,Take carpool to work
+DP03_0021PE,-0.05,-0.08,0.04,0.08,0.17,0.29,0.29,0.25,commute,Take public transportation to work
+DP03_0022PE,0.03,-0.09,-0.05,0.03,0.11,0.17,0.10,0.01,commute,Walk to work
+DP03_0023PE,0.08,-0.08,0.00,0.07,0.18,0.25,0.26,0.18,commute,Take other transport to work
+DP03_0024PE,-0.48,-0.50,-0.57,-0.56,-0.50,-0.39,-0.18,0.13,commute,Work at home
+DP03_0026PE,0.01,0.03,0.02,0.11,0.19,0.13,0.00,0.08,occupation,Employed pop age >16
+DP03_0027PE,-0.63,-0.65,-0.72,-0.68,-0.59,-0.46,-0.27,0.10,occupation,Employed 
+DP03_0028PE,0.57,0.53,0.64,0.63,0.56,0.50,0.32,0.00,occupation,Service workers
+DP03_0029PE,-0.23,-0.17,-0.16,-0.20,-0.24,-0.21,-0.14,0.03,occupation,Sales/Office workers
+DP03_0030PE,0.39,0.46,0.45,0.42,0.35,0.24,0.10,-0.18,occupation,Natural resources/maintenance employees
+DP03_0031PE,0.66,0.68,0.72,0.68,0.61,0.44,0.25,-0.13,occupation,Production/transportation/shipment employees
+DP03_0032PE,0.01,0.03,0.02,0.11,0.19,0.13,0.00,0.08,industry,Total employed
+DP03_0033PE,-0.08,-0.18,-0.17,-0.18,-0.18,-0.25,-0.24,-0.18,industry,Agriculture/hunting/mining employees
+DP03_0034PE,0.25,0.33,0.26,0.25,0.19,0.09,-0.02,-0.17,industry,Construction employees
+DP03_0035PE,0.45,0.46,0.35,0.31,0.25,0.09,0.00,-0.20,industry,Manufacturing employees
+DP03_0036PE,0.01,0.04,-0.11,-0.07,-0.11,-0.16,-0.18,0.02,industry,Wholesale trade workers
+DP03_0037PE,0.21,0.18,0.17,0.17,0.11,0.01,-0.09,-0.10,industry,Retail trade employees
+DP03_0038PE,0.24,0.28,0.43,0.38,0.32,0.31,0.20,-0.03,industry,Transport/warehouse/utility employees
+DP03_0039PE,-0.41,-0.42,-0.44,-0.39,-0.32,-0.22,-0.07,0.24,industry,Information employees
+DP03_0040PE,-0.53,-0.48,-0.55,-0.52,-0.46,-0.37,-0.22,0.06,industry,Finance/real estate employees
+DP03_0041PE,-0.24,-0.26,-0.35,-0.29,-0.20,-0.14,-0.07,0.12,industry,Prof/science/admin employees
+DP03_0042PE,-0.37,-0.41,-0.24,-0.31,-0.24,-0.12,-0.01,0.10,industry,Education/health/social assist employees
+DP03_0043PE,0.44,0.33,0.36,0.44,0.42,0.38,0.29,0.07,industry,Art/Food/entertain employees
+DP03_0044PE,0.08,0.12,0.08,0.13,0.11,0.17,0.09,0.10,industry,Other employees
+DP03_0045PE,-0.08,-0.05,0.05,0.02,0.00,0.04,0.05,0.00,industry,Public admin employees
+DP03_0046PE,0.01,0.03,0.02,0.11,0.19,0.13,0.00,0.08,worker,All Worker Class
+DP03_0047PE,0.21,0.20,0.08,0.12,0.13,0.03,-0.02,-0.06,worker,Private wage/salary
+DP03_0048PE,-0.17,-0.18,-0.02,-0.07,-0.08,-0.02,0.03,0.01,worker,Government worker
+DP03_0049PE,-0.10,-0.03,-0.16,-0.14,-0.12,-0.03,-0.02,0.13,worker,Self employed
+DP03_0050PE,-0.06,-0.03,-0.08,-0.09,-0.14,-0.11,-0.14,-0.04,worker,Unpaid family worker
+DP03_0051PE,-0.05,-0.04,-0.01,0.07,0.15,0.11,0.00,0.05,income,All income
+DP03_0052PE,0.22,0.12,0.30,0.27,0.29,0.31,0.23,0.01,income,Income <10k
+DP03_0053PE,0.31,0.23,0.39,0.38,0.35,0.37,0.22,0.00,income,Income 10k-15k
+DP03_0054PE,0.50,0.46,0.60,0.56,0.51,0.50,0.36,-0.05,income,Income 15k-25k
+DP03_0055PE,0.54,0.53,0.63,0.61,0.57,0.52,0.32,-0.03,income,Income 25k-35k
+DP03_0056PE,0.52,0.50,0.54,0.57,0.51,0.34,0.14,-0.07,income,Income 35k-50k
+DP03_0057PE,0.35,0.29,0.29,0.33,0.29,0.16,0.02,-0.13,income,Income 50k-75k
+DP03_0058PE,-0.03,-0.03,-0.10,-0.09,-0.09,-0.10,-0.06,-0.04,income,Income 75k-100k
+DP03_0059PE,-0.41,-0.38,-0.47,-0.46,-0.44,-0.41,-0.28,0.00,income,Income 100k-150k
+DP03_0060PE,-0.54,-0.48,-0.59,-0.58,-0.55,-0.46,-0.29,0.07,income,Income 150k-200k
+DP03_0061PE,-0.47,-0.38,-0.52,-0.51,-0.46,-0.39,-0.21,0.09,income,Income >200k
+DP03_0064PE,0.04,0.02,-0.12,-0.04,0.01,-0.01,0.03,0.14,income,All w/ earnings
+DP03_0066PE,-0.09,0.02,0.03,-0.05,-0.17,-0.20,-0.21,-0.20,income,With Social Security benefits
+DP03_0068PE,-0.27,-0.23,-0.22,-0.30,-0.39,-0.38,-0.31,-0.17,income,With retirement income
+DP03_0070PE,0.28,0.27,0.47,0.41,0.36,0.37,0.24,-0.02,income,With Supplemental Security Income
+DP03_0072PE,0.40,0.36,0.51,0.47,0.43,0.40,0.21,0.01,income,W/ $$ public assist
+DP03_0074PE,0.52,0.47,0.63,0.59,0.56,0.52,0.37,0.00,income,W/ SNAP last 12 mo
+DP03_0075PE,0.03,0.12,0.11,0.17,0.21,0.11,-0.07,-0.02,income,Families
+DP03_0076PE,0.26,0.19,0.36,0.32,0.31,0.30,0.24,0.04,income,"Family income, <$10k"
+DP03_0077PE,0.33,0.29,0.41,0.40,0.38,0.40,0.22,0.01,income,"Family income, $10-15k"
+DP03_0078PE,0.53,0.49,0.61,0.59,0.57,0.59,0.46,0.00,income,"Family income, $15-25k"
+DP03_0079PE,0.62,0.60,0.71,0.70,0.64,0.57,0.34,0.01,income,"Family income, $25-35k"
+DP03_0080PE,0.57,0.56,0.64,0.65,0.61,0.45,0.24,-0.05,income,"Family income, $35-50k"
+DP03_0081PE,0.42,0.38,0.42,0.43,0.37,0.23,0.05,-0.14,income,"Family income, $50-75k"
+DP03_0082PE,0.07,0.06,0.05,0.02,-0.03,-0.06,-0.04,-0.10,income,"Family income, $75-100k"
+DP03_0083PE,-0.43,-0.41,-0.48,-0.48,-0.49,-0.45,-0.32,-0.05,income,"Family income, $100-150k"
+DP03_0084PE,-0.57,-0.54,-0.62,-0.61,-0.56,-0.46,-0.31,0.03,income,"Family income, $150-200k"
+DP03_0085PE,-0.48,-0.42,-0.55,-0.52,-0.46,-0.38,-0.20,0.09,income,"Family income, $200k+"
+DP03_0089PE,-0.11,-0.20,-0.14,-0.06,0.04,0.09,0.08,0.10,income,Non family(NF)
+DP03_0095PE,0.10,0.16,0.19,0.26,0.32,0.22,0.03,0.04,hinsurance,Civilian population
+DP03_0096PE,-0.75,-0.76,-0.79,-0.83,-0.77,-0.69,-0.49,-0.06,hinsurance,With any health insurance
+DP03_0097PE,-0.65,-0.65,-0.76,-0.75,-0.70,-0.63,-0.42,0.00,hinsurance,With private health insurance
+DP03_0098PE,0.47,0.47,0.59,0.54,0.48,0.42,0.26,-0.09,hinsurance,With public health insurance
+DP03_0099PE,0.75,0.76,0.79,0.83,0.77,0.69,0.49,0.06,hinsurance,No health insurance
+DP03_0100PE,0.23,0.33,0.35,0.40,0.44,0.29,0.05,0.01,hinsurance,Civilian age <19
+DP03_0101PE,0.36,0.29,0.28,0.33,0.28,0.29,0.32,0.06,hinsurance,Civilian age<19 without health 
+DP03_0102PE,0.08,0.10,0.14,0.22,0.30,0.23,0.06,0.08,hinsurance,Civilian age 19-64
+DP03_0103PE,0.05,0.06,0.08,0.17,0.25,0.18,0.04,0.09,hinsurance,Total labor force age 19-64
+DP03_0104PE,0.03,0.03,0.03,0.13,0.21,0.15,0.02,0.09,hinsurance,Employed people
+DP03_0105PE,-0.77,-0.79,-0.79,-0.83,-0.77,-0.65,-0.42,-0.01,hinsurance,Employed with health insurance
+DP03_0106PE,-0.71,-0.71,-0.79,-0.78,-0.73,-0.64,-0.41,0.01,hinsurance,Employed with private health insurance
+DP03_0107PE,0.43,0.40,0.54,0.48,0.45,0.41,0.27,-0.05,hinsurance,Employed with public health insurance
+DP03_0108PE,0.77,0.79,0.79,0.83,0.77,0.65,0.42,0.01,hinsurance,Employed without health insurance
+DP03_0109PE,0.25,0.28,0.42,0.43,0.45,0.40,0.19,0.05,hinsurance,Unemployed
+DP03_0110PE,-0.39,-0.44,-0.50,-0.51,-0.49,-0.45,-0.32,-0.07,hinsurance,Umployed but have health insurance
+DP03_0112PE,0.43,0.31,0.41,0.39,0.36,0.36,0.31,0.03,hinsurance,"Umployed, public health insurance"
+DP03_0113PE,0.39,0.44,0.50,0.51,0.49,0.45,0.32,0.07,hinsurance,"Umployed, private health insurance"
+DP03_0113PE,0.39,0.44,0.50,0.51,0.49,0.45,0.32,0.07,hinsurance,"Umployed, no health insurance"
+DP03_0114PE,0.18,0.24,0.34,0.39,0.43,0.35,0.13,0.03,hinsurance,Not labor force
+DP03_0115PE,-0.64,-0.67,-0.71,-0.75,-0.69,-0.61,-0.41,-0.12,hinsurance,"Not labor force, health insuance"
+DP03_0116PE,-0.60,-0.57,-0.69,-0.69,-0.66,-0.59,-0.42,-0.07,hinsurance,"Not labor force, private health insurance"
+DP03_0117PE,0.44,0.39,0.52,0.50,0.49,0.44,0.32,0.03,hinsurance,"Not labor force, public health insurance"
+DP03_0118PE,0.64,0.67,0.71,0.75,0.69,0.61,0.41,0.12,hinsurance,"Not labor force, no health insurance"
+DP03_0119PE,0.43,0.39,0.54,0.51,0.49,0.50,0.36,0.05,poverty,Fam in poverty
+DP03_0120PE,0.41,0.36,0.51,0.48,0.46,0.47,0.34,0.04,poverty,"Fam, pov, rel. kid <18"
+DP03_0121PE,0.37,0.37,0.45,0.40,0.36,0.36,0.26,-0.03,poverty,"Fam, pov, rel. kid <5"
+DP03_0122PE,0.50,0.52,0.62,0.59,0.56,0.59,0.43,0.12,poverty,Marry fam pov
+DP03_0123PE,0.47,0.49,0.58,0.54,0.51,0.54,0.39,0.10,poverty,"Marry fam pov, rel kid <18"
+DP03_0124PE,0.22,0.23,0.28,0.25,0.24,0.26,0.12,-0.02,poverty,"Marry fam, pov, rel. kid <5"
+DP03_0125PE,0.40,0.34,0.42,0.41,0.42,0.39,0.25,-0.02,poverty,"Fam w/o dad, pov"
+DP03_0126PE,0.38,0.34,0.40,0.40,0.41,0.39,0.26,0.00,poverty,"Fam w/o dad, pov, kid <18"
+DP03_0127PE,0.22,0.21,0.22,0.24,0.20,0.16,0.14,-0.04,poverty,"Fam w/0 dad, pov, kid <5"
+DP03_0128PE,0.39,0.32,0.48,0.46,0.47,0.49,0.34,0.04,poverty,All poverty levels
+DP03_0129PE,0.44,0.39,0.53,0.51,0.49,0.50,0.37,0.07,poverty,Pov <18
+DP03_0130PE,0.45,0.39,0.53,0.51,0.49,0.50,0.37,0.07,poverty,"Pov <18, kid at home"
+DP03_0131PE,0.45,0.40,0.52,0.48,0.45,0.45,0.35,0.02,poverty,"Pov <5, kid at home"
+DP03_0132PE,0.43,0.37,0.52,0.50,0.50,0.52,0.37,0.10,poverty,"Pov 5-17, kid at home"
+DP03_0133PE,0.33,0.24,0.42,0.40,0.43,0.46,0.31,0.04,poverty,Pov >18
+DP03_0134PE,0.32,0.24,0.41,0.38,0.40,0.43,0.29,0.03,poverty,Pov 18-64
+DP03_0135PE,0.22,0.15,0.32,0.34,0.41,0.45,0.33,0.11,poverty,Pov >65
+DP03_0136PE,0.42,0.38,0.53,0.50,0.48,0.50,0.36,0.07,poverty,"In families, poverty"
+DP03_0137PE,0.38,0.31,0.46,0.42,0.45,0.44,0.29,-0.04,poverty,"Pov >15, alone"
+DP04_0001PE,-0.03,-0.03,0.02,0.10,0.17,0.15,0.03,0.05,hoccupancy,All Housing
+DP04_0002PE,-0.22,-0.17,-0.32,-0.28,-0.30,-0.32,-0.24,-0.01,hoccupancy,Occupied housing
+DP04_0003PE,0.22,0.17,0.32,0.28,0.30,0.32,0.24,0.01,hoccupancy,Vacant housing
+DP04_0006PE,-0.03,-0.03,0.02,0.10,0.17,0.15,0.03,0.05,structure,All units in structure
+DP04_0007PE,-0.14,-0.05,-0.14,-0.23,-0.32,-0.37,-0.28,-0.16,structure,1 unit detached
+DP04_0008PE,-0.21,-0.20,-0.27,-0.25,-0.18,-0.27,-0.22,-0.01,structure,1 unit attached
+DP04_0009PE,0.48,0.51,0.62,0.63,0.62,0.59,0.41,0.11,structure,2 units
+DP04_0010PE,0.29,0.28,0.38,0.44,0.47,0.48,0.41,0.23,structure,3-4 families per building
+DP04_0011PE,0.02,-0.04,0.01,0.09,0.12,0.21,0.18,0.15,structure,5-9 units
+DP04_0012PE,0.00,-0.08,-0.10,-0.03,-0.03,0.00,-0.01,0.07,structure,10-19 units
+DP04_0013PE,-0.16,-0.26,-0.21,-0.16,-0.06,0.03,0.00,0.01,structure,20+ units
+DP04_0014PE,0.17,0.15,0.09,0.09,0.08,0.12,0.18,-0.05,structure,Mobile home
+DP04_0015PE,-0.07,-0.08,-0.07,-0.07,0.00,0.05,0.06,0.13,structure,"Home boat, rv etc"
+DP04_0016PE,-0.03,-0.03,0.02,0.10,0.17,0.15,0.03,0.05,yearhouse,All year built
+DP04_0017PE,-0.34,-0.36,-0.44,-0.38,-0.27,-0.18,-0.14,0.02,yearhouse,House built >2014
+DP04_0018PE,-0.20,-0.32,-0.33,-0.29,-0.19,-0.13,-0.14,-0.06,yearhouse,House built 2010-2013
+DP04_0019PE,-0.19,-0.29,-0.33,-0.31,-0.23,-0.22,-0.15,-0.03,yearhouse,House built 2000-2009
+DP04_0020PE,-0.24,-0.29,-0.37,-0.39,-0.35,-0.34,-0.17,-0.02,yearhouse,House built 1990-1999
+DP04_0021PE,-0.31,-0.34,-0.38,-0.37,-0.39,-0.39,-0.26,-0.02,yearhouse,House built 1980-1989
+DP04_0022PE,-0.18,-0.21,-0.22,-0.21,-0.23,-0.27,-0.18,-0.04,yearhouse,House built 1970-1979
+DP04_0023PE,-0.01,0.07,0.06,0.02,-0.05,-0.05,-0.07,-0.11,yearhouse,House built1960-1969
+DP04_0024PE,0.17,0.29,0.26,0.23,0.14,0.15,0.05,-0.11,yearhouse,House built 1950-1959
+DP04_0025PE,0.20,0.29,0.35,0.31,0.26,0.23,0.10,-0.06,yearhouse,House built 1940-1949
+DP04_0026PE,0.30,0.28,0.36,0.40,0.44,0.44,0.34,0.17,yearhouse,House built before 1939
+DP04_0027PE,-0.03,-0.03,0.02,0.10,0.17,0.15,0.03,0.05,rooms,All rooms
+DP04_0028PE,0.00,-0.10,-0.02,0.03,0.12,0.22,0.22,0.11,rooms,1 room
+DP04_0029PE,-0.03,-0.18,-0.15,-0.07,0.04,0.13,0.05,0.04,rooms,2 rooms
+DP04_0030PE,0.06,-0.08,-0.04,0.07,0.12,0.19,0.11,0.09,rooms,3 rooms
+DP04_0031PE,0.34,0.22,0.24,0.35,0.35,0.32,0.15,-0.01,rooms,4 rooms
+DP04_0032PE,0.52,0.53,0.60,0.61,0.57,0.51,0.36,-0.04,rooms,5 rooms
+DP04_0033PE,0.31,0.35,0.44,0.38,0.29,0.25,0.15,-0.06,rooms,6 rooms
+DP04_0034PE,-0.24,-0.12,-0.12,-0.22,-0.28,-0.32,-0.22,-0.07,rooms,7 rooms
+DP04_0035PE,-0.40,-0.32,-0.39,-0.47,-0.49,-0.50,-0.33,-0.05,rooms,8 rooms
+DP04_0036PE,-0.44,-0.34,-0.46,-0.51,-0.50,-0.48,-0.28,0.02,rooms,9+ rooms
+DP04_0038PE,-0.03,-0.03,0.02,0.10,0.17,0.15,0.03,0.05,bedroom,All bedrooms
+DP04_0039PE,-0.02,-0.12,-0.05,0.00,0.09,0.19,0.19,0.11,bedroom,No bedroom
+DP04_0040PE,0.07,-0.07,-0.01,0.06,0.13,0.19,0.13,0.09,bedroom,1 bedroom
+DP04_0041PE,0.28,0.19,0.23,0.33,0.36,0.32,0.15,-0.03,bedroom,2 bedroom
+DP04_0042PE,0.17,0.24,0.28,0.19,0.10,0.05,0.02,-0.10,bedroom,3 bedroom
+DP04_0043PE,-0.39,-0.30,-0.39,-0.45,-0.46,-0.47,-0.28,0.01,bedroom,4 bedroom
+DP04_0044PE,-0.23,-0.07,-0.20,-0.23,-0.23,-0.24,-0.12,0.02,bedroom,5+ bedroom
+DP04_0045PE,-0.05,-0.04,-0.01,0.07,0.15,0.11,0.00,0.05,htenure,Occupied tenure
+DP04_0046PE,-0.36,-0.23,-0.37,-0.41,-0.47,-0.50,-0.39,-0.13,htenure,Owner occupied
+DP04_0047PE,0.36,0.23,0.37,0.41,0.47,0.50,0.39,0.13,htenure,Renter occupied
+DP04_0050PE,-0.05,-0.04,-0.01,0.07,0.15,0.11,0.00,0.05,yearmovein,All year moved in
+DP04_0051PE,0.00,-0.21,-0.19,-0.15,-0.04,0.01,-0.01,-0.04,yearmovein,Moved in current house >2017
+DP04_0052PE,0.00,-0.17,-0.13,-0.05,0.06,0.12,0.12,0.15,yearmovein,Moved in current house 2015-16
+DP04_0053PE,0.28,0.17,0.24,0.30,0.38,0.42,0.39,0.11,yearmovein,Moved in current house 2010-14
+DP04_0054PE,-0.14,-0.11,-0.17,-0.19,-0.19,-0.25,-0.20,-0.01,yearmovein,Moved incurrent house 2000-09
+DP04_0055PE,-0.15,0.00,-0.09,-0.16,-0.24,-0.28,-0.25,-0.07,yearmovein,Moved in current house 1990-99
+DP04_0056PE,-0.04,0.10,0.12,0.07,-0.06,-0.07,-0.10,-0.12,yearmovein,Moved in current house <1989
+DP04_0057PE,-0.05,-0.04,-0.01,0.07,0.15,0.11,0.00,0.05,vehicle,All vehicles allowed
+DP04_0058PE,0.15,0.06,0.22,0.25,0.29,0.37,0.30,0.12,vehicle,No vehicles allow
+DP04_0059PE,0.18,0.07,0.20,0.25,0.32,0.37,0.25,0.07,vehicle,Have 1 vehicle
+DP04_0060PE,-0.30,-0.17,-0.34,-0.36,-0.42,-0.48,-0.37,-0.10,vehicle,Have 2 vehicles
+DP04_0061PE,0.01,0.08,-0.06,-0.11,-0.18,-0.27,-0.19,-0.11,vehicle,Have 3+ vehicles
+DP04_0062PE,-0.05,-0.04,-0.01,0.07,0.15,0.11,0.00,0.05,hheating,Heat fuel - occupied
+DP04_0063PE,0.06,0.22,0.19,0.14,0.12,0.08,0.03,0.11,hheating,Utility gas fuel
+DP04_0064PE,-0.05,-0.13,-0.11,-0.08,-0.06,-0.01,0.00,-0.03,hheating,Bottled/tank/LP gas
+DP04_0065PE,-0.05,-0.20,-0.18,-0.14,-0.13,-0.09,-0.06,-0.14,hheating,Electricity
+DP04_0066PE,-0.09,-0.11,-0.06,-0.10,-0.08,-0.10,-0.02,0.02,hheating,"Fuel oil, kerosene, etc"
+DP04_0067PE,-0.10,-0.09,-0.11,-0.09,-0.06,-0.02,0.00,-0.03,hheating,Coal/coke
+DP04_0068PE,0.06,-0.05,-0.03,-0.07,-0.10,-0.10,-0.06,-0.08,hheating,Wood
+DP04_0069PE,0.08,0.10,0.12,0.09,0.11,0.08,0.09,0.12,hheating,Solar energy
+DP04_0070PE,-0.01,-0.05,-0.07,0.00,0.01,0.05,0.10,0.16,hheating,Other fuel
+DP04_0071PE,-0.06,-0.11,-0.05,-0.03,0.03,0.08,0.12,0.10,hheating,No fuel
+DP04_0072PE,-0.05,-0.04,-0.01,0.07,0.15,0.11,0.00,0.05,selected,Occupied houses
+DP04_0073PE,0.26,0.24,0.26,0.26,0.26,0.33,0.37,0.06,selected,Incomplete plumbing
+DP04_0074PE,0.00,0.07,0.07,0.06,0.07,0.11,0.21,0.07,selected,Kitchen not done
+DP04_0075PE,0.41,0.39,0.46,0.43,0.50,0.48,0.47,-0.01,selected,No phone in house
+DP04_0076PE,-0.05,-0.04,-0.01,0.07,0.15,0.11,0.00,0.05,occupantsroom,Occupants/room
+DP04_0077PE,-0.63,-0.68,-0.70,-0.74,-0.69,-0.60,-0.45,-0.06,occupantsroom,<1 person/room
+DP04_0078PE,0.61,0.69,0.70,0.73,0.66,0.56,0.45,0.04,occupantsroom,1-1.5 people/room
+DP04_0079PE,0.42,0.39,0.43,0.48,0.48,0.46,0.25,0.07,occupantsroom,>1.5 people/room
+DP04_0080PE,-0.25,-0.15,-0.22,-0.17,-0.14,-0.21,-0.28,-0.08,hvalue,Value of homes
+DP04_0081PE,0.23,0.16,0.22,0.18,0.20,0.14,0.14,-0.11,hvalue,Home $ <50k
+DP04_0082PE,0.30,0.22,0.30,0.23,0.23,0.15,0.06,-0.12,hvalue,Home $ 50-100k
+DP04_0083PE,0.42,0.33,0.44,0.39,0.35,0.27,0.19,-0.11,hvalue,Home $ 100-150k
+DP04_0084PE,0.35,0.35,0.42,0.43,0.34,0.24,0.12,-0.03,hvalue,Home $ 150-200k
+DP04_0085PE,-0.08,-0.01,-0.04,-0.02,-0.05,-0.05,-0.10,-0.04,hvalue,Home $ 200-300k
+DP04_0086PE,-0.43,-0.39,-0.45,-0.41,-0.37,-0.24,-0.17,0.11,hvalue,Home $ 300-500k
+DP04_0087PE,-0.37,-0.34,-0.43,-0.38,-0.32,-0.23,-0.06,0.18,hvalue,Home $ 500k-1m
+DP04_0088PE,-0.21,-0.12,-0.24,-0.23,-0.18,-0.16,-0.05,0.06,hvalue,Home $ >1m
+DP04_0090PE,-0.25,-0.15,-0.22,-0.17,-0.14,-0.21,-0.28,-0.08,mortgage,All mortgage status
+DP04_0091PE,-0.17,-0.25,-0.23,-0.22,-0.12,-0.07,-0.02,0.19,mortgage,With home mortgage
+DP04_0092PE,0.17,0.25,0.23,0.22,0.12,0.07,0.02,-0.19,mortgage,W/o mortgage
+DP04_0093PE,-0.26,-0.18,-0.26,-0.20,-0.15,-0.21,-0.25,-0.02,selected,Cost/mo w/ mortgage
+DP04_0094PE,0.19,0.16,0.12,0.09,0.11,0.08,0.12,-0.11,selected,SMOC w/ mortgage $ <500
+DP04_0095PE,0.18,0.07,0.11,0.06,0.04,-0.04,-0.09,-0.19,selected,SMOC w/mortgage $500-1k
+DP04_0096PE,0.38,0.36,0.45,0.40,0.34,0.24,0.07,-0.12,selected,SMOC w/mortgage $1-1.5k
+DP04_0097PE,0.39,0.40,0.47,0.49,0.45,0.40,0.29,0.00,selected,SMOC w/mortgage $1.5-2k
+DP04_0098PE,-0.18,-0.11,-0.13,-0.09,-0.07,-0.01,0.03,0.08,selected,SMOC w/mortgage $2-2.5k
+DP04_0099PE,-0.42,-0.42,-0.46,-0.42,-0.37,-0.24,-0.14,0.14,selected,SMOC w/mortgage $2.5-3k
+DP04_0100PE,-0.42,-0.36,-0.46,-0.44,-0.39,-0.30,-0.13,0.14,selected,SMOC w/mortgage $>3000
+DP04_0102PE,-0.20,-0.05,-0.12,-0.08,-0.09,-0.17,-0.29,-0.18,selected,SMOC w/o mortgage
+DP04_0103PE,0.13,0.05,0.08,0.05,0.12,0.09,0.11,-0.14,selected,SMOC w/o morg. $<250
+DP04_0104PE,0.34,0.25,0.31,0.25,0.24,0.19,0.08,-0.17,selected,SMOC w/o morg. $250-400
+DP04_0105PE,0.39,0.35,0.41,0.40,0.34,0.23,0.05,-0.10,selected,SMOC w/o morg. $400-600
+DP04_0106PE,0.25,0.31,0.36,0.33,0.30,0.25,0.14,-0.06,selected,SMOC w/o morg. $600-800
+DP04_0107PE,-0.19,-0.15,-0.15,-0.14,-0.13,-0.04,-0.02,0.08,selected,SMOC w/o morg. $800-1k
+DP04_0108PE,-0.43,-0.40,-0.48,-0.45,-0.40,-0.32,-0.14,0.14,selected,SMOC w/o morg. $>1k
+DP04_0110PE,-0.26,-0.18,-0.26,-0.20,-0.15,-0.21,-0.25,-0.02,selected,SMOC/income w/morg.
+DP04_0111PE,-0.47,-0.56,-0.66,-0.65,-0.55,-0.48,-0.27,-0.05,selected,SMOC/income w/morg. <20%
+DP04_0112PE,-0.12,-0.20,-0.30,-0.29,-0.28,-0.29,-0.21,-0.03,selected,SMOC/income w/morg. 20-25%
+DP04_0113PE,0.09,0.18,0.12,0.06,0.02,0.10,0.15,-0.01,selected,SMOC/income w/morg. 25-30%
+DP04_0114PE,0.16,0.23,0.26,0.29,0.23,0.20,0.07,-0.04,selected,SMOC/income w/morg. 30-35%
+DP04_0115PE,0.45,0.52,0.67,0.67,0.60,0.52,0.30,0.08,selected,SMOC/income w/morg. >35%
+DP04_0117PE,-0.20,-0.06,-0.12,-0.09,-0.09,-0.18,-0.29,-0.18,selected,SMOC/income w/o morg.
+DP04_0118PE,-0.16,-0.24,-0.31,-0.32,-0.23,-0.24,-0.13,0.06,selected,SMOC/income w/o morg. <10%
+DP04_0119PE,0.01,0.00,-0.02,-0.02,-0.08,-0.11,-0.08,-0.07,selected,SMOC/income w/o morg. 10-15%
+DP04_0120PE,0.18,0.14,0.17,0.12,0.12,0.06,-0.03,-0.03,selected,SMOC/income w/o morg. 15-20%
+DP04_0121PE,0.12,0.13,0.17,0.17,0.13,0.05,-0.04,-0.13,selected,SMOC/income w/o morg. 20-25%
+DP04_0122PE,0.04,0.06,0.12,0.13,0.08,0.18,0.24,0.18,selected,SMOC/income w/o morg. 25-30%
+DP04_0123PE,0.03,0.03,0.02,0.03,0.06,0.08,-0.01,-0.08,selected,SMOC/income w/o morg. 30-35%
+DP04_0124PE,-0.01,0.11,0.15,0.18,0.16,0.22,0.16,0.03,selected,SMOC/income w/o morg. >35%
+DP04_0126PE,0.12,0.05,0.15,0.23,0.32,0.33,0.22,0.14,grossrent,Gross rent
+DP04_0127PE,0.14,0.00,0.14,0.10,0.10,0.08,0.03,-0.08,grossrent,Rent $ <500
+DP04_0128PE,0.35,0.36,0.39,0.39,0.32,0.25,0.12,-0.11,grossrent,Rent $500-1k
+DP04_0129PE,0.05,0.12,0.08,0.08,0.04,0.02,0.04,0.04,grossrent,Rent $1-1.5k
+DP04_0130PE,-0.30,-0.34,-0.37,-0.35,-0.27,-0.22,-0.11,0.11,grossrent,Rent $1.5-2k
+DP04_0131PE,-0.38,-0.37,-0.40,-0.40,-0.32,-0.22,-0.10,0.08,grossrent,Rent $2-2.5k
+DP04_0132PE,-0.31,-0.24,-0.34,-0.32,-0.28,-0.22,-0.13,0.06,grossrent,Rent $2.5-3k
+DP04_0133PE,-0.33,-0.25,-0.36,-0.35,-0.30,-0.26,-0.13,0.03,grossrent,Rent >$3k
+DP04_0136PE,0.12,0.05,0.15,0.23,0.32,0.32,0.22,0.14,grossrent,Rent/income
+DP04_0137PE,-0.27,-0.22,-0.34,-0.28,-0.33,-0.32,-0.23,-0.05,grossrent,Rent/income <15%
+DP04_0138PE,-0.21,-0.19,-0.29,-0.23,-0.20,-0.20,-0.08,0.00,grossrent,Rent/income 15-20%
+DP04_0139PE,-0.13,-0.21,-0.25,-0.23,-0.11,-0.12,-0.14,0.02,grossrent,Rent/income 20-25%
+DP04_0140PE,0.10,0.02,-0.01,0.00,-0.03,-0.02,0.04,-0.04,grossrent,Rent/income 25-30%
+DP04_0141PE,0.03,-0.09,-0.03,-0.02,-0.01,-0.09,-0.17,-0.09,grossrent,Rent/income 30-35%
+DP04_0142PE,0.23,0.30,0.41,0.34,0.31,0.33,0.24,0.06,grossrent,Rent/income >35%
+DP05_0001PE,0.10,0.15,0.18,0.26,0.32,0.23,0.04,0.04,sexage,Sex/age all
+DP05_0002PE,0.19,0.17,0.03,0.10,0.10,0.05,0.01,-0.01,sexage,Male
+DP05_0003PE,-0.19,-0.17,-0.03,-0.10,-0.10,-0.05,-0.01,0.01,sexage,Female
+DP05_0005PE,0.36,0.45,0.44,0.47,0.44,0.35,0.24,0.01,sexage,Age <5
+DP05_0006PE,0.34,0.47,0.41,0.38,0.34,0.18,0.15,-0.03,sexage,Age 5-9
+DP05_0007PE,0.24,0.35,0.30,0.24,0.16,0.03,-0.03,0.00,sexage,Age 10-14
+DP05_0008PE,0.10,0.17,0.22,0.12,0.14,0.09,0.07,-0.08,sexage,Age 15-19
+DP05_0009PE,0.18,0.00,0.15,0.15,0.21,0.24,0.16,-0.01,sexage,Age 20-24
+DP05_0010PE,0.11,-0.05,0.00,0.12,0.20,0.24,0.20,0.16,sexage,Age 25-34
+DP05_0011PE,0.17,0.18,0.12,0.17,0.31,0.29,0.21,0.11,sexage,Age 35-44
+DP05_0012PE,-0.23,-0.17,-0.22,-0.32,-0.35,-0.33,-0.23,0.00,sexage,Age 45-54
+DP05_0013PE,-0.32,-0.25,-0.31,-0.36,-0.49,-0.38,-0.21,-0.01,sexage,Age 55-59
+DP05_0014PE,-0.36,-0.27,-0.29,-0.34,-0.43,-0.43,-0.30,-0.11,sexage,Age 60-64
+DP05_0015PE,-0.38,-0.30,-0.35,-0.39,-0.46,-0.46,-0.39,-0.15,sexage,Age 65-74
+DP05_0016PE,-0.30,-0.21,-0.24,-0.27,-0.33,-0.27,-0.21,-0.14,sexage,Age 75-84
+DP05_0017PE,-0.28,-0.18,-0.24,-0.27,-0.36,-0.28,-0.20,-0.13,sexage,Age >85
+DP05_0019PE,0.34,0.49,0.44,0.39,0.33,0.18,0.12,-0.03,sexage,"Age <18, total"
+DP05_0020PE,-0.37,-0.51,-0.46,-0.42,-0.36,-0.21,-0.13,0.02,sexage,"Age >16, total"
+DP05_0021PE,-0.34,-0.49,-0.44,-0.39,-0.33,-0.18,-0.12,0.03,sexage,Age >18
+DP05_0022PE,-0.33,-0.44,-0.44,-0.38,-0.35,-0.22,-0.14,0.05,sexage,Age >21
+DP05_0023PE,-0.37,-0.28,-0.33,-0.37,-0.45,-0.41,-0.33,-0.16,sexage,Age >62
+DP05_0024PE,-0.36,-0.27,-0.32,-0.35,-0.44,-0.39,-0.32,-0.16,sexage,"Age >65, total"
+DP05_0025PE,0.05,0.09,0.12,0.19,0.27,0.20,0.03,0.05,sexage,"Age >18, total"
+DP05_0026PE,0.19,0.17,0.02,0.10,0.11,0.07,-0.01,-0.04,sexage,"Age >18, Male"
+DP05_0027PE,-0.19,-0.17,-0.02,-0.10,-0.11,-0.07,0.01,0.04,sexage,"Age >18, Female"
+DP05_0029PE,-0.16,-0.04,-0.04,-0.01,0.00,-0.05,-0.16,-0.10,sexage,"Age >65, total"
+DP05_0030PE,0.01,-0.02,-0.15,-0.08,-0.06,-0.10,-0.13,0.05,sexage,"Age >65, Male"
+DP05_0031PE,-0.01,0.02,0.15,0.08,0.06,0.10,0.13,-0.05,sexage,"Age >65, Female"
+DP05_0033PE,0.10,0.15,0.18,0.26,0.32,0.23,0.04,0.04,race,All race
+DP05_0034PE,-0.19,-0.04,0.03,0.02,-0.03,0.04,0.12,-0.03,race,One race
+DP05_0035PE,0.19,0.04,-0.03,-0.02,0.03,-0.04,-0.12,0.03,race,">2 races, num"
+DP05_0036PE,-0.19,-0.04,0.03,0.02,-0.03,0.04,0.12,-0.03,race,"One race, duplicate"
+DP05_0037PE,-0.39,-0.32,-0.54,-0.50,-0.50,-0.48,-0.37,-0.09,race,"White, race"
+DP05_0038PE,0.17,0.09,0.32,0.27,0.27,0.29,0.27,0.09,race,"Black/African American, race"
+DP05_0039PE,0.29,0.23,0.22,0.28,0.30,0.13,-0.04,0.01,race,"American Indian/Alaska Native, race"
+DP05_0040PE,-0.09,-0.09,-0.13,-0.08,-0.09,-0.06,-0.02,0.08,race,"Cherokee, race"
+DP05_0041PE,0.05,0.11,0.07,0.07,0.08,0.08,-0.02,0.02,race,"Chippewa, race"
+DP05_0042PE,-0.02,-0.05,-0.04,-0.03,-0.05,-0.02,-0.06,-0.04,race,"Navajo, race"
+DP05_0043PE,0.01,-0.09,-0.10,-0.09,-0.08,-0.10,-0.06,0.02,race,"Sioux, race"
+DP05_0044PE,-0.20,-0.20,-0.25,-0.22,-0.18,-0.12,-0.16,0.01,race,"Asian, race"
+DP05_0045PE,-0.22,-0.21,-0.26,-0.23,-0.21,-0.16,-0.20,-0.02,race,"Asian Indian, race"
+DP05_0046PE,-0.14,-0.20,-0.18,-0.14,-0.09,-0.05,-0.07,0.01,race,"Chinese, race"
+DP05_0047PE,-0.03,0.00,-0.06,-0.05,-0.04,-0.02,-0.10,-0.01,race,"Filipino, race"
+DP05_0048PE,-0.14,-0.17,-0.19,-0.20,-0.20,-0.20,-0.19,-0.06,race,"Japanese, race"
+DP05_0049PE,-0.24,-0.19,-0.26,-0.22,-0.21,-0.15,-0.15,0.01,race,"Korean, race"
+DP05_0050PE,-0.01,-0.01,-0.04,-0.02,-0.02,0.07,0.02,0.08,race,"Vietnamese, race"
+DP05_0051PE,-0.05,0.00,-0.05,-0.07,-0.07,-0.02,-0.02,0.07,race,"Other Asian, race"
+DP05_0052PE,0.01,-0.02,0.03,0.02,0.01,0.02,-0.06,-0.04,race,"Hawaiian/Pacific Islander, race"
+DP05_0053PE,0.04,0.02,0.05,0.05,0.03,0.02,-0.05,-0.08,race,"Native Havaiian, race"
+DP05_0054PE,-0.08,-0.04,-0.06,-0.02,0.00,0.06,-0.01,0.06,race,"Guamanian/Chamorro, race"
+DP05_0055PE,0.00,-0.01,0.07,0.03,0.04,0.04,-0.01,-0.02,race,"Samoan, race"
+DP05_0056PE,0.05,0.01,0.06,0.02,0.00,-0.02,-0.04,-0.05,race,"Other Pacific Islander, race"
+DP05_0057PE,0.68,0.73,0.70,0.74,0.72,0.54,0.34,-0.01,race,"One race, other"
+DP05_0058PE,0.19,0.04,-0.03,-0.02,0.03,-0.04,-0.12,0.03,race,>2 races
+DP05_0059PE,0.12,-0.03,-0.06,-0.08,-0.02,-0.10,-0.09,-0.07,race,White + Black/African American
+DP05_0060PE,0.06,-0.03,-0.04,-0.02,-0.05,-0.12,-0.19,-0.10,race,White + Amer. Indian/Nat. Alaskan
+DP05_0061PE,-0.24,-0.25,-0.36,-0.35,-0.31,-0.22,-0.17,0.15,race,White + Asian
+DP05_0062PE,0.12,0.10,0.21,0.19,0.29,0.23,0.16,0.05,race,Black + AmerIndian/Alaskan Native
+DP05_0063PE,0.10,0.15,0.18,0.26,0.32,0.23,0.04,0.04,race,All Race(alone or combo)
+DP05_0064PE,-0.38,-0.31,-0.54,-0.50,-0.50,-0.48,-0.37,-0.09,race,White
+DP05_0065PE,0.18,0.10,0.32,0.27,0.27,0.29,0.27,0.09,race,Black/African American
+DP05_0066PE,0.30,0.19,0.26,0.27,0.31,0.16,0.01,-0.01,race,AmerIndian/Alaska Native
+DP05_0067PE,-0.20,-0.21,-0.26,-0.23,-0.20,-0.13,-0.17,0.02,race,Asian
+DP05_0068PE,0.17,0.06,0.00,0.07,0.00,0.03,-0.01,-0.02,race,Hawaiian/Pacific Islander
+DP05_0069PE,0.68,0.73,0.70,0.74,0.72,0.54,0.33,-0.01,race,Some other race
+DP05_0070PE,0.10,0.15,0.18,0.26,0.32,0.23,0.04,0.04,hispanic,All (hispanic/latino test)
+DP05_0071PE,0.72,0.77,0.70,0.76,0.72,0.55,0.33,-0.02,hispanic,Hispanic/Latino
+DP05_0072PE,0.72,0.77,0.70,0.76,0.71,0.53,0.32,-0.03,hispanic,Mexican
+DP05_0073PE,0.33,0.38,0.35,0.38,0.40,0.34,0.20,0.04,hispanic,Puerto Rican
+DP05_0074PE,0.07,0.08,0.00,-0.02,0.03,0.05,-0.04,0.02,hispanic,Cuban
+DP05_0075PE,0.40,0.42,0.36,0.40,0.40,0.35,0.25,0.01,hispanic,Other Hispanic/Latino
+DP05_0076PE,-0.72,-0.77,-0.70,-0.76,-0.72,-0.55,-0.33,0.02,hispanic,Not Hispanic/Latino
+DP05_0077PE,-0.63,-0.58,-0.75,-0.74,-0.72,-0.65,-0.46,-0.08,hispanic,Non-Hispanic White
+DP05_0078PE,0.17,0.09,0.32,0.26,0.26,0.29,0.27,0.09,hispanic,"Not Latino, j Black"
+DP05_0079PE,0.00,-0.07,-0.12,-0.09,-0.10,-0.14,-0.11,-0.05,hispanic,"Not Latino, j Amerindian/Alaska native"
+DP05_0080PE,-0.20,-0.20,-0.25,-0.22,-0.19,-0.12,-0.16,0.01,hispanic,"Not Latino, j Asian"
+DP05_0081PE,-0.01,-0.04,-0.02,-0.01,-0.02,-0.02,-0.09,-0.07,hispanic,Not Latino. j Hawaiian/Pacific Islander
+DP05_0082PE,0.10,0.08,0.05,0.05,0.14,0.13,0.07,-0.01,hispanic,"Not Latino, j some other race"
+DP05_0083PE,-0.09,-0.23,-0.29,-0.29,-0.21,-0.21,-0.15,0.08,hispanic,"Not Latino, 2+ other races"
+DP05_0084PE,-0.04,-0.08,-0.07,-0.07,-0.01,-0.01,-0.05,0.02,hispanic,"Not Latino, 2+ other races, some other race"
+DP05_0085PE,-0.09,-0.23,-0.29,-0.30,-0.22,-0.22,-0.15,0.08,hispanic,"Not Latino, 2+ others, not some other race"
+DP05_0087PE,-0.08,-0.06,-0.02,0.04,0.12,0.09,-0.01,0.05,citizen,"Citizen, age >18"
+DP05_0088PE,0.11,0.09,-0.07,-0.01,0.00,-0.01,-0.03,-0.05,citizen,"Citizen, age >18, Male"
+DP05_0089PE,-0.11,-0.09,0.07,0.01,0.00,0.01,0.03,0.05,citizen,"Citizen, age >18, Female"
